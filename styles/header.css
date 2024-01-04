@@ -138,17 +138,25 @@ font-weight: 700;
 .resume-item-title{
       color:#474747;
 
+.footer-column{
+      width: 50%;
+}
+
 font-size: 25px;
 font-style: normal;
 font-weight: 700;
 }
 
 .resume-container hr{
-      margin: 30px;
+      margin:
+       30px;
 }
 footer{
       display: flex;
       background: #FFF8F3;
       padding: 130px 200px;
+      gap: 100px;
 }
-
+.footer-column{
+      width: 50%;
+}
